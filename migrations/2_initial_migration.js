@@ -1,5 +1,5 @@
-const MyCalculator = artifacts.require("MyCalculator");
+const ShabairAbdulRehman = artifacts.require("ShabairAbdulRehman");
 
 module.exports = function (deployer) {
-  deployer.deploy(MyCalculator);
+  deployer.deploy(ShabairAbdulRehman);
 };

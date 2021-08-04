@@ -2,7 +2,7 @@
 
 pragma solidity >=0.7.0 <0.9.0;
 
-contract MyCalculator {
+contract ShabairAbdulRehman {
     uint256 a;
     uint256 b;
     uint256 c;
